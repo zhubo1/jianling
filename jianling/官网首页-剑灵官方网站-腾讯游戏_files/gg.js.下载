@@ -1,0 +1,2 @@
+//此文件用于生成广告地址，您可以按实际情况修改“”引号中的地址
+setTimeout('document.getElementById("ost_gg").href="http://bns.qq.com/cp/a20161013ranks/index.htm";',10);/*  |xGv00|51e06e7bd8e67cf2db774184552483aa */
